@@ -138,3 +138,4 @@ ui-tests/.pnp.*
 
 # specifically large files
 data/CS_Course_Enrollment_Data_Log.csv
+data/log_CSCurriculumFull.csv
