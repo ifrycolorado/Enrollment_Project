@@ -1,0 +1,50 @@
+Major                         
+Computer Science                  10417
+Mechanical Engineering             2624
+Electrical Engineering             1609
+Engineering Physics                 404
+Computational & Applied Math        344
+Civil Engineering                   267
+Chemical Engineering                224
+Statistics                          218
+Quantitative Biosci & Eng           210
+Non-degree Undergraduate            146
+Metallurgical & Materials Eng       133
+Petroleum Engineering               127
+Geophysical Engineering             107
+Engineering General                  97
+Environmental Engineering            91
+Business Eng & Mngmt Sci             79
+Undecided                            77
+Robotics                             58
+Mining Engineering                   39
+Data Science                         31
+Geological Engineering               31
+Quantum Engineering                  28
+Economics                            26
+Chemistry                            24
+Operations Research w Eng            23
+Engineering & Tech Management        17
+STEM Education                       14
+Biochemistry                         14
+Nuclear Engineering                  12
+Space Resources                      11
+Cybersecurity Cyber Phys Sys         11
+Geophysics                           10
+Non-degree Graduate                   9
+Professional Comp Sci                 7
+Earth Resources Dev Eng               4
+Hydrology                             4
+Ceramic Engineering                   3
+Materials Science                     3
+Undrgrnd Const & Tunnel Eng           2
+Construction Engineering              2
+Physics                               2
+Environmental Engnring Science        2
+Mining & Earth Sys Engineering        2
+Engineering - Mechanical              1
+Civil & Environ Engineering           1
+Mineral & Energy Economics            1
+GIS & Geoinformatics                  1
+Ntrl Resc & Nrg Plcy                  1
+Smart-Grid, Pwr Elec&Pwr Sys          1
