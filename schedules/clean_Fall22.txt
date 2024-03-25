@@ -267,6 +267,7 @@ Liebe (P)
 08/22-
 12/16
 MZ 022
+
 C
 81459 CSCI
 102
@@ -295,6 +296,7 @@ Liebe
 08/22-
 12/16
 BB W210
+
 NR
 81460 CSCI
 102
@@ -323,6 +325,7 @@ Liebe
 08/22-
 12/16
 CT 102
+
 NR
 81461 CSCI
 102
@@ -440,12 +443,12 @@ C
 A
 C
 3.000
-FOUNDATIONAL
-PROGRAMMING CONCEPTS &
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
 MWF
 09:00
 am-
 09:50
+am
 60
 60
 0
@@ -458,21 +461,18 @@ am-
 Clark
 Scholten (P),
 Jeffrey R
+Paone
 08/22-
 12/16
 MZ 026
-DESIGN
-am
-Paone
+
 NR
 82123 CSCI
 200
 B
 C
 3.000
-FOUNDATIONAL
-PROGRAMMING CONCEPTS &
-DESIGN
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
 MWF
 10:00
 am-
@@ -492,15 +492,14 @@ Paone (P)
 08/22-
 12/16
 MZ 026
+
 NR
 82124 CSCI
 200
 C
 C
 3.000
-FOUNDATIONAL
-PROGRAMMING CONCEPTS &
-DESIGN
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
 MWF
 11:00
 am-
@@ -526,9 +525,7 @@ C
 D
 C
 3.000
-FOUNDATIONAL
-PROGRAMMING CONCEPTS &
-DESIGN
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
 MWF
 12:00
 pm-
@@ -550,6 +547,7 @@ Paone
 08/22-
 12/16
 MZ 026
+
 NR
 82257 CSCI
 220
@@ -580,6 +578,7 @@ Lovato
 08/22-
 12/16
 GC PET
+
 NR
 82258 CSCI
 220
@@ -610,6 +609,7 @@ Can
 08/22-
 12/16
 GC PET
+
 NR
 80920 CSCI
 250
@@ -1095,6 +1095,8 @@ COMPUTER ORGANIZATION
 MWF
 11:00
 am-
+11:50
+am
 65
 61
 4
@@ -1106,17 +1108,13 @@ am-
 0
 Daniel
 Hammer (P),
+John K
+Bennett
 08/22-
 12/16
 AH 340
-UG
-Required
-11:50
-am
-John K
-Bennett
-Crse for
-Schdlng
+UG_Req
+
 NR
 80112 CSCI
 341
@@ -1324,14 +1322,13 @@ Denise Fisher
 08/22-
 12/16
 MC 314
+
 NR
 82161 CSCI
 398A A
 C
 1.000
-SP TPS: BRIDGE
-SEMINAR
-COURSE
+SP TPS: BRIDGE SEMINAR COURSE
 W
 04:00
 pm-
@@ -1551,6 +1548,7 @@ Williams (P)
 08/22-
 12/16
 BB 125
+
 NR
 81837 CSCI
 436
@@ -1577,18 +1575,8 @@ Emrys
 Williams (P)
 08/22-
 12/16
-BB 125
-F
-01:00
-pm-
-02:59
-pm
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-BB 136
+BB 125/BB136
+
 NR
 81838 CSCI
 436
@@ -1615,18 +1603,8 @@ Emrys
 Williams (P)
 08/22-
 12/16
-BB 125
-F
-03:01
-pm-
-04:59
-pm
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-BB 136
+BB 136/BB125
+
 NR
 80937 CSCI
 437
@@ -1664,7 +1642,7 @@ A
 C
 3.000
 COMPUTER GRAPHICS
-MW
+MWF
 01:00
 pm-
 01:50
@@ -1682,17 +1660,8 @@ Jeffrey R
 Paone (P)
 08/22-
 12/16
-AH 340
-F
-01:00
-Jeffrey R
-08/22-
-MZ 022
-pm-
-01:50
-pm
-Paone (P)
-12/16
+AH 340/MZ022
+
 C
 81466 CSCI
 442
@@ -1962,7 +1931,8 @@ am-
 10:50
 am
 110
-107 3
+107 
+3
 0
 0
 0
@@ -2056,1522 +2026,7 @@ am
 72
 69
 3
-Tolga Can (P) 08/22-
+Tolga Can (P) 
+08/22-
 12/16
 MZ 226
-NR
-81174 CSCI
-480
-B
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Neil T
-Dantam (P)
-08/22-
-12/16
-NR NR
-NR
-81182 CSCI
-480
-C
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Qi Han (P)
-08/22-
-12/16
-NR NR
-NR
-81183 CSCI
-480
-E
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Dinesh
-Prakash
-Mehta (P)
-08/22-
-12/16
-NR NR
-NR
-81184 CSCI
-480
-F
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Hua Wang
-(P)
-08/22-
-12/16
-NR NR
-NR
-81185 CSCI
-480
-G
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-NR NR
-NR
-81186 CSCI
-480
-H
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Bo Wu (P)
-08/22-
-12/16
-NR NR
-NR
-81187 CSCI
-480
-I
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Dejun Yang
-(P)
-08/22-
-12/16
-NR NR
-NR
-81188 CSCI
-480
-J
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-1
-2
-0
-0
-0
-0
-0
-0
-Chuan Yue
-(P)
-08/22-
-12/16
-NR NR
-NR
-81189 CSCI
-480
-K
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Hao Zhang
-(P)
-08/22-
-12/16
-NR NR
-NR
-81687 CSCI
-480
-L
-C
-3.000
-COMPUTER
-SCIENCE
-HONORS THESIS
-AAA
-00:00
-zm-
-00:00
-zm
-3
-0
-3
-0
-0
-0
-0
-0
-0
-Mehmet Esat
-Belviranli (P)
-08/22-
-12/16
-NR NR
-NR
-82077 CSCI
-498A A
-C
-3.000
-SP TPS:
-AUGMENTED
-REALITY
-TR
-03:30
-pm-
-04:45
-pm
-10
-8
-2
-0
-0
-0
-34
-31
-3
-Zhao Han
-(P), Thomas
-Emrys
-Williams
-08/22-
-12/16
-AH 330
-Computer
-Science
-Elective
-NR
-80948 CSCI
-507
-A
-C
-3.000
-INTRODUCTION TO COMPUTER VISION
-MWF
-08:00
-am-
-08:50
-am
-60
-29
-31
-0
-0
-0
-80
-39
-41
-Thomas
-Emrys
-Williams (P),
-Ruchen Wen
-08/22-
-12/16
-CK 130
-C
-81536 CSCI
-536
-A
-C
-3.000
-HUMAN-ROBOT INTERACTION
-MW
-02:00
-pm-
-02:50
-pm
-20
-20
-0
-0
-0
-0
-50
-38
-12
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-BB 125
-C
-81839 CSCI
-536
-LA
-C
-0.000
-HUMAN-ROBOT INTERACTION
-F
-01:00
-pm-
-02:59
-pm
-10
-11
--1
-0
-0
-0
-25
-20
-5
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-BB 125
-F
-01:00
-pm-
-02:59
-pm
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-BB 136
-NR
-81840 CSCI
-536
-LB
-C
-0.000
-HUMAN-ROBOT INTERACTION
-F
-03:01
-pm-
-04:59
-pm
-10
-9
-1
-0
-0
-0
-25
-18
-7
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-BB 125
-F
-03:01
-pm-
-04:59
-pm
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-BB 136
-NR
-81652 CSCI
-560
-OL
-O
-3.000
-FUNDAMENTALS
-OF COMPUTER
-NETWORKS
-AAA
-00:00
-zm-
-00:00
-zm
-35
-25
-10
-0
-0
-0
-0
-0
-0
-Shneka
-Muthu
-Kumara
-Swamy (P),
-Qi Han
-08/22-
-10/17
-ONLINE
-
-NR
-80346 CSCI
-561
-A
-C
-3.000
-THEORY OF
-COMPUTATION
-TR
-02:00
-pm-
-03:15
-pm
-85
-81
-4
-0
-0
-0
-0
-0
-0
-Neil T
-Dantam (P)
-08/22-
-12/16
-MZ 126
-NR
-82074 CSCI
-562
-A
-C
-3.000
-APPLIED
-ALGORITHMS
-AND DATA STRUCTURES
-MWF
-02:00
-pm-
-02:50
-pm
-60
-37
-23
-0
-0
-0
-0
-0
-0
-Dinesh
-Prakash
-Mehta (P)
-08/22-
-12/16
-CO 219
-NR
-82072 CSCI
-565
-A
-C
-3.000
-DISTRIBUTED
-SYSTEMS
-TR
-09:30
-am-
-10:45
-am
-60
-14
-46
-0
-0
-0
-0
-0
-0
-Qi Han (P)
-08/22-
-12/16
-BE 241
-C
-81534 CSCI
-578
-A
-C
-3.000
-BIOINFORMATICS TR
-08:00
-am-
-09:15
-am
-20
-21
--1
-0
-0
-0
-72
-69
-3
-Tolga Can (P) 08/22-
-12/16
-MZ 226
-NR
-82075 CSCI
-580
-A
-C
-3.000
-ADVANCED HIGH
-PERFORMANCE
-COMPUTING
-TR
-12:30
-pm-
-01:45
-pm
-60
-41
-19
-0
-0
-0
-0
-0
-0
-Bo Wu (P)
-08/22-
-12/16
-CO 219
-NR
-82071 CSCI
-585
-A
-C
-3.000
-INFORMATION
-SECURITY
-PRIVACY
-TR
-09:30
-am-
-10:45
-am
-60
-18
-42
-0
-0
-0
-0
-0
-0
-Chuan Yue
-(P)
-08/22-
-12/16
-MZ 108
-C
-81653 CSCI
-585
-OL
-O
-3.000
-INFORMATION
-SECURITY
-PRIVACY
-AAA
-00:00
-zm-
-00:00
-zm
-0
-0
-0
-0
-0
-0
-0
-0
-0
-Chuan Yue
-(P)
-08/22-
-12/16
-ONLINE
-
-NR
-82076 CSCI
-598B A
-C
-3.000
-SP TPS:
-AUGMENTED
-REALITY
-TR
-03:30
-pm-
-04:45
-pm
-24
-23
-1
-0
-0
-0
-34
-31
-3
-Zhao Han
-(P), Thomas
-Emrys
-Williams
-08/22-
-12/16
-AH 330
-NR
-80312 CSCI
-700
-03
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Qi Han (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80313 CSCI
-700
-04
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-0
-30
-0
-0
-0
-0
-0
-0
-Dinesh
-Prakash
-Mehta (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80716 CSCI
-700
-05
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-0
-30
-0
-0
-0
-0
-0
-0
-Bo Wu (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80768 CSCI
-700
-06
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-0
-30
-0
-0
-0
-0
-0
-0
-Chuan Yue
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80535 CSCI
-700
-07
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Hua Wang
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80665 CSCI
-700
-08
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Dejun Yang
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80727 CSCI
-700
-09
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-0
-30
-0
-0
-0
-0
-0
-0
-Hao Zhang
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80995 CSCI
-700
-10
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-0
-30
-0
-0
-0
-0
-0
-0
-Neil T
-Dantam (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80996 CSCI
-700
-12
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-0
-30
-0
-0
-0
-0
-0
-0
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-81540 CSCI
-700
-13
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Chuan Yue
-(P), Phillip R
-Romig
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-81581 CSCI
-700
-14
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Mehmet Esat
-Belviranli (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-81886 CSCI
-700
-15
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-1
-0
-1
-0
-0
-0
-0
-0
-0
-Wendy
-Denise Fisher
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-RELEASE: 8.7.2.4
-NR
-82308 CSCI
-700
-16
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-0
-30
-0
-0
-0
-0
-0
-0
-Dong Chen
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-82320 CSCI
-700
-17
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Christine
-Liebe (P),
-Robert Haven
-Thompson
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-82498 CSCI
-700
-18
-C
-1.000-
-6.000
-MASTERS PROJECT CREDITS
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Robert Haven
-Thompson
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80381 CSCI
-707
-01
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Tracy K
-Camp (P)
-08/22-
-12/16
-AAA
-00:00
-zm-
-00:00
-zm
-Summer_Grad_TARA_Fee
-
-NR
-80382 CSCI
-707
-03
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-3
-27
-0
-0
-0
-0
-0
-0
-Qi Han (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80383 CSCI
-707
-04
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-3
-27
-0
-0
-0
-0
-0
-0
-Dinesh
-Prakash
-Mehta (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80717 CSCI
-707
-05
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-6
-24
-0
-0
-0
-0
-0
-0
-Bo Wu (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80384 CSCI
-707
-06
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Hao Zhang
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80432 CSCI
-707
-08
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-4
-26
-0
-0
-0
-0
-0
-0
-Hua Wang
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80658 CSCI
-707
-09
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-2
-28
-0
-0
-0
-0
-0
-0
-Dejun Yang
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80769 CSCI
-707
-10
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-4
-26
-0
-0
-0
-0
-0
-0
-Chuan Yue
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80997 CSCI
-707
-11
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-3
-27
-0
-0
-0
-0
-0
-0
-Neil T
-Dantam (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-80998 CSCI
-707
-12
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-8
-22
-0
-0
-0
-0
-0
-0
-Thomas
-Emrys
-Williams (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-81384 CSCI
-707
-13
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-1
-29
-0
-0
-0
-0
-0
-0
-Robert Haven
-Thompson
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-81385 CSCI
-707
-14
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-2
-28
-0
-0
-0
-0
-0
-0
-Mehmet Esat
-Belviranli (P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
-NR
-82309 CSCI
-707
-15
-C
-1.000-
-15.000
-GRADUATE THESIS / DISSERTATION RESEARCH CREDIT
-AAA
-00:00
-zm-
-00:00
-zm
-30
-2
-28
-0
-0
-0
-0
-0
-0
-Dong Chen
-(P)
-08/22-
-12/16
-NR NR
-Summer_Grad_TARA_Fee
-
