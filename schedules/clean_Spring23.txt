@@ -1,0 +1,1747 @@
+NR
+10222 CSCI
+101
+A
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+01:00
+pm-
+01:50
+pm
+90
+88
+2
+0
+0
+0
+0
+0
+0
+Grace
+Katherine
+Jung (P),
+Robert Haven
+Thompson
+01/10-
+05/12
+GC MET
+UG_Req
+
+NR
+10765 CSCI
+101
+B
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+02:00
+pm-
+02:50
+pm
+83
+82
+1
+0
+0
+0
+0
+0
+0
+Robert Haven
+Thompson
+(P)
+01/10-
+05/12
+MZ 126
+UG_Req
+
+NR
+10766 CSCI
+101
+C
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+03:00
+pm-
+03:50
+pm
+83
+82
+1
+0
+0
+0
+0
+0
+0
+Victoria Laine
+Messmore
+(P), Robert
+Haven
+Thompson
+01/10-
+05/12
+MZ 126
+UG_Req
+
+NR
+11223 CSCI
+101
+D
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+04:00
+pm-
+04:50
+pm
+60
+54
+6
+0
+0
+0
+0
+0
+0
+Megan
+Kinsley
+Shapiro (P),
+Robert Haven
+Thompson
+01/10-
+05/12
+MZ 235
+UG_Req
+
+NR
+10250 CSCI
+101
+E
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+01:00
+pm-
+01:50
+pm
+72
+66
+6
+0
+0
+0
+0
+0
+0
+Robert Haven
+Thompson
+(P)
+01/10-
+05/12
+MZ 226
+UG_Req
+
+NR
+11221 CSCI
+101
+F
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+02:00
+pm-
+02:50
+pm
+73
+72
+1
+0
+0
+0
+0
+0
+0
+Megan
+Kinsley
+Shapiro (P),
+Robert Haven
+Thompson
+01/10-
+05/12
+GC MET
+UG_Req
+
+NR
+11222 CSCI
+101
+G
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+03:00
+pm-
+03:50
+pm
+73
+72
+1
+0
+0
+0
+0
+0
+0
+Megan
+Kinsley
+Shapiro (P),
+Robert Haven
+Thompson
+01/10-
+05/12
+GC MET
+UG_Req
+
+NR
+11779 CSCI
+101
+I
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+02:00
+pm-
+02:50
+pm
+60
+58
+2
+0
+0
+0
+0
+0
+0
+Grace
+Katherine
+Jung (P),
+Robert Haven
+Thompson
+01/10-
+05/12
+MZ 235
+UG_Req
+
+C
+11045 CSCI
+102
+A
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+09:30
+am-
+10:45
+am
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Mark Lewis
+Baldwin (P),
+Christine
+Liebe
+01/10-
+05/12
+BB W210
+
+NR
+11047 CSCI
+102
+B
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+11:00
+am-
+12:15
+pm
+85
+81
+4
+0
+0
+0
+0
+0
+0
+Christine
+Liebe (P)
+01/10-
+05/12
+CK 130
+
+NR
+11394 CSCI
+102
+C
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+02:00
+pm-
+03:15
+pm
+60
+58
+2
+0
+0
+0
+0
+0
+0
+Cole Andrew
+Callihan (P),
+Christine
+Liebe
+01/10-
+05/12
+MZ 022
+
+NR
+11227 CSCI
+102
+D
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+03:30
+pm-
+04:45
+pm
+60
+53
+7
+0
+0
+0
+0
+0
+0
+Matthew
+James
+Rottinghaus
+(P), Christine
+Liebe
+01/10-
+05/12
+MZ 026
+NR
+11046 CSCI
+102
+E
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+09:30
+am-
+10:45
+am
+60
+43
+17
+0
+0
+0
+0
+0
+0
+Katherine
+Anna Aubert
+(P), Christine
+Liebe
+01/10-
+05/12
+CK 130
+C
+11225 CSCI
+102
+F
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+11:00
+am-
+12:15
+pm
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Eric William
+Roels (P),
+Christine
+Liebe
+01/10-
+05/12
+MZ 022
+NR
+12011 CSCI
+102
+G
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+02:00
+pm-
+03:15
+pm
+75
+74
+1
+0
+0
+0
+0
+0
+0
+Colter Henry
+Snyder (P),
+Christine
+Liebe
+01/10-
+05/12
+MZ 126
+NR
+11226 CSCI
+102
+H
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+03:30
+pm-
+04:45
+pm
+60
+49
+11
+0
+0
+0
+0
+0
+0
+John James
+Honan (P),
+Christine
+Liebe
+01/10-
+05/12
+MZ 022
+C
+11544 CSCI
+102
+OL
+O
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+AAA
+00:00
+zm-
+00:00
+zm
+40
+40
+0
+0
+0
+0
+0
+0
+0
+Christine
+Liebe (P)
+01/10-
+03/07
+ONLINE
+
+C
+11985 CSCI
+200
+A
+C
+3.000
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
+MWF
+08:00
+am-
+08:50
+am
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Carter
+Jameison
+Fowler (P),
+Jeffrey R
+Paone
+01/10-
+05/12
+MZ 022
+C
+11981 CSCI
+200
+B
+C
+3.000
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
+MWF
+09:00
+am-
+09:50
+am
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Clark
+Scholten (P),
+Jeffrey R
+Paone
+01/10-
+05/12
+MZ 022
+C
+11982 CSCI
+200
+C
+C
+3.000
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
+MWF
+10:00
+am-
+10:50
+am
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Jeffrey R
+Paone (P)
+01/10-
+05/12
+MZ 022
+C
+11983 CSCI
+200
+D
+C
+3.000
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
+MWF
+11:00
+am-
+11:50
+am
+60
+61
+-1
+0
+0
+0
+0
+0
+0
+Jeffrey R
+Paone (P)
+01/10-
+05/12
+MZ 022
+C
+11984 CSCI
+200
+E
+C
+3.000
+FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN
+MWF
+12:00
+pm-
+12:50
+pm
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Clark
+Scholten (P),
+Jeffrey R
+Paone
+01/10-
+05/12
+MZ 022
+NR
+11986 CSCI
+220
+A
+C
+3.000
+DATA STRUCTURES AND ALGORITHMS
+MWF
+11:00
+am-
+11:50
+am
+110
+101 9
+0
+0
+0
+0
+0
+0
+Christopher
+Robert
+Painter-
+Wakefield
+(P), Keith E
+Hellman
+01/10-
+05/12
+GC PET
+
+NR
+11987 CSCI
+220
+B
+C
+3.000
+DATA STRUCTURES AND ALGORITHMS
+MWF
+02:00
+pm-
+02:50
+pm
+100
+78
+22
+0
+0
+0
+0
+0
+0
+Christopher
+Robert
+Painter-
+Wakefield
+(P), Preston
+Montgomery
+Walraven
+01/10-
+05/12
+GC PET
+
+NR
+10778 CSCI
+250
+A
+C
+3.000
+PYTHON-BASED COMPUTING: BUILDING A SENSOR SYSTEM
+MWF
+02:00
+pm-
+02:50
+pm
+60
+56
+4
+0
+0
+0
+0
+0
+0
+Phillip
+Richardson
+Romig (P)
+01/10-
+05/12
+MZ 022
+UG_Req
+
+NR
+10777 CSCI
+250
+B
+C
+3.000
+PYTHON-BASED COMPUTING: BUILDING A SENSOR SYSTEM
+MWF
+03:00
+pm-
+03:50
+pm
+60
+48
+12
+0
+0
+0
+0
+0
+0
+Phillip
+Richardson
+Romig (P)
+01/10-
+05/12
+MZ 022
+UG_Req
+
+NR
+10754 CSCI
+274
+A
+C
+1.000
+INTRODUCTION TO THE LINUX OPERATING SYSTEM
+M
+03:00
+pm-
+03:50
+pm
+60
+59
+1
+0
+0
+0
+0
+0
+0
+Tolga Can (P)
+01/10-
+05/12
+MZ 026
+UG_Req
+
+NR
+10416 CSCI
+274
+B
+C
+1.000
+INTRODUCTION TO THE LINUX OPERATING SYSTEM
+W
+04:00
+pm-
+04:50
+pm
+60
+42
+18
+0
+0
+0
+0
+0
+0
+Steven
+Marcel
+Ardern (P),
+Tolga Can
+01/10-
+05/12
+MZ 022
+UG_Req
+
+NR
+10806 CSCI
+274
+C
+C
+1.000
+INTRODUCTION TO THE LINUX OPERATING SYSTEM
+F
+02:00
+pm-
+02:50
+pm
+60
+47
+13
+0
+0
+0
+0
+0
+0
+Justin M Bale
+(P), Tolga
+Can
+01/10-
+05/12
+MZ 026
+UG_Req
+
+NR
+11783 CSCI
+295
+A
+C
+1.000
+INDUSTRY EXPLORATION I
+W
+03:00
+pm-
+03:50
+pm
+30
+17
+13
+0
+0
+0
+0
+0
+0
+Wendy
+Denise Fisher
+(P)
+01/10-
+05/12
+MC 213
+NR
+10779 CSCI
+303
+A
+C
+3.000
+INTRODUCTION TO DATA SCIENCE
+TR
+08:00
+am-
+09:15
+am
+60
+33
+27
+0
+0
+0
+75
+42
+33
+Morgan
+Dallas Cox
+(P), Wendy
+Denise Fisher
+01/10-
+05/12
+GC PET
+UG_Req
+
+NR
+11302 CSCI
+303
+B
+C
+3.000
+INTRODUCTION TO DATA SCIENCE
+TR
+09:30
+am-
+10:45
+am
+65
+63
+2
+0
+0
+0
+80
+74
+6
+Wendy
+Denise Fisher
+(P)
+01/10-
+05/12
+GC PET
+UG_Req
+
+NR
+11988 CSCI
+303
+OL
+O
+3.000
+INTRODUCTION TO DATA SCIENCE
+AAA
+00:00
+zm-
+00:00
+zm
+46
+42
+4
+0
+0
+0
+70
+64
+6
+Wendy
+Denise Fisher
+(P)
+01/10-
+03/07
+ONLINE 
+UG_Req
+
+NR
+11545 CSCI
+306
+A
+C
+3.000
+SOFTWARE ENGINEERING
+TR
+09:30
+am-
+10:45
+am
+55
+28
+27
+0
+0
+0
+0
+0
+0
+Zibo Wang
+(P), Mark
+Lewis
+Baldwin
+01/10-
+05/12
+MZ 022
+UG_Req
+
+NR
+10041 CSCI
+306
+B
+C
+3.000
+SOFTWARE ENGINEERING
+TR
+12:30
+pm-
+01:45
+pm
+60
+59
+1
+0
+0
+0
+0
+0
+0
+Mark Lewis
+Baldwin (P)
+01/10-
+05/12
+MZ 026
+UG_Req
+
+NR
+10738 CSCI
+306
+C
+C
+3.000
+SOFTWARE ENGINEERING
+TR
+02:00
+pm-
+03:15
+pm
+55
+51
+4
+0
+0
+0
+0
+0
+0
+Mark Lewis
+Baldwin (P)
+01/10-
+05/12
+MZ 026
+UG_Req
+
+NR
+11989 CSCI
+306
+OL
+O
+3.000
+SOFTWARE ENGINEERING
+TR
+03:30
+pm-
+04:45
+pm
+30
+8
+22
+0
+0
+0
+0
+0
+0
+Caleb Loyal
+Bartel (P),
+Mark Lewis
+Baldwin
+01/10-
+05/12
+ONLINE
+UG_Req
+
+NR
+10807 CSCI
+341
+A
+C
+3.000
+COMPUTER ORGANIZATION
+TR
+11:00
+am-
+12:15
+pm
+115
+113 2
+0
+0
+0
+0
+0
+0
+Qi Han (P)
+01/10-
+05/12
+GC PET
+UG_Req
+
+NR
+10044 CSCI
+341
+B
+C
+3.000
+COMPUTER ORGANIZATION
+TR
+02:00
+pm-
+03:15
+pm
+50
+42
+8
+0
+0
+0
+0
+0
+0
+Jonathan
+Sumner Van
+Evans (P), Qi
+Han
+01/10-
+05/12
+MZ 326
+UG_Req
+
+NR
+10658 CSCI
+358
+A
+C
+3.000
+DISCRETE MATHEMATICS
+TR
+09:30
+am-
+10:45
+am
+120
+111 9
+0
+0
+0
+0
+0
+0
+Dejun Yang
+(P)
+01/10-
+05/12
+BE 241
+UG_Req
+
+C
+11781 CSCI
+358
+B
+C
+3.000
+DISCRETE MATHEMATICS
+MWF
+10:00
+am-
+10:50
+am
+72
+79
+-7
+0
+0
+0
+0
+0
+0
+Terry Joe
+Bridgman
+(P), Dejun
+Yang
+01/10-
+05/12
+GC MET
+UG_Req
+
+NR
+11412 CSCI
+400
+A
+C
+3.000
+PRINCIPLES OF PROGRAMMING LANGUAGES
+TR
+11:00
+am-
+12:15
+pm
+150
+118 32
+0
+0
+0
+0
+0
+0
+Neil T
+Dantam (P)
+01/10-
+05/12
+GC MET
+UG_Req
+
+NR
+10669 CSCI
+403
+A
+C
+3.000
+DATA BASE MANAGEMENT
+MWF
+10:00
+am-
+10:50
+am
+70
+65
+5
+0
+0
+0
+0
+0
+0
+Ameliaann
+Blaisy Read
+(P)
+01/10-
+05/12
+BB W250
+UG_Req
+
+NR
+11050 CSCI
+403
+B
+C
+3.000
+DATA BASE MANAGEMENT
+MWF
+11:00
+am-
+11:50
+am
+70
+64
+6
+0
+0
+0
+0
+0
+0
+Ameliaann
+Blaisy Read
+(P)
+01/10-
+05/12
+BB W250
+UG_Req
+
+NR
+12301 CSCI
+403
+C
+C
+3.000
+DATA BASE MANAGEMENT
+MWF
+01:00
+pm-
+01:50
+pm
+50
+34
+16
+0
+0
+0
+0
+0
+0
+Ameliaann
+Blaisy Read
+(P)
+01/10-
+05/12
+HH 204
+UG_Req
+
+NR
+10780 CSCI
+404
+A
+C
+3.000
+ARTIFICIAL
+INTELLIGENCE
+TR
+12:30
+pm-
+01:45
+pm
+170
+169 1
+0
+0
+0
+0
+0
+0
+Hua Wang
+(P)
+01/10-
+05/12
+GC MET
+UG_Req
+
+C
+10781 CSCI
+406
+A
+C
+3.000
+ALGORITHMS
+MWF
+12:00
+pm-
+12:50
+pm
+170
+170 0
+0
+0
+0
+0
+0
+0
+Dinesh
+Prakash
+Mehta (P)
+01/10-
+05/12
+GC MET
+UG_Req
+
+C
+11395 CSCI
+410
+A
+C
+3.000
+ELEMENTS OF COMPUTING SYSTEMS
+TR
+03:30
+pm-
+04:45
+pm
+6
+6
+0
+0
+0
+0
+0
+0
+0
+Christopher
+Robert
+Painter-
+Wakefield (P)
+01/10-
+05/12
+BB 206
+NR
+11539 CSCI
+425
+A
+C
+3.000
+COMPILER DESIGN
+MWF
+09:00
+am-
+09:50
+am
+40
+26
+14
+0
+0
+0
+0
+0
+0
+Keith E
+Hellman (P)
+01/10-
+05/12
+LB 121
+NR
+11280 CSCI
+432
+A
+C
+3.000
+ROBOT ETHICS
+TR
+02:00
+pm-
+03:15
+pm
+42
+33
+9
+0
+0
+0
+56
+46
+10
+Thomas
+Emrys
+Williams (P)
+01/10-
+05/12
+MZ 235
+C
+11464 CSCI
+442
+A
+C
+3.000
+OPERATING SYSTEMS
+TR
+11:00
+am-
+12:15
+pm
+63
+63
+0
+0
+0
+0
+0
+0
+0
+Zibo Wang
+(P), Mehmet
+Esat
+Belviranli
+01/10-
+05/12
+MZ 108
+UG_Req
+
+NR
+10046 CSCI
+442
+B
+C
+3.000
+OPERATING SYSTEMS
+TR
+12:30
+pm-
+01:45
+pm
+77
+76
+1
+0
+0
+0
+0
+0
+0
+Mehmet Esat
+Belviranli (P)
+01/10-
+05/12
+MZ 126
+UG_Req
+
+NR
+11318 CSCI
+442
+C
+C
+3.000
+OPERATING SYSTEMS
+TR
+02:00
+pm-
+03:15
+pm
+75
+62
+13
+0
+0
+0
+0
+0
+0
+Zibo Wang
+(P), Mehmet
+Esat
+Belviranli
+01/10-
+05/12
+BB W250
+UG_Req
+
+NR
+11990 CSCI
+444
+A
+C
+3.000
+ADVANCED
+COMPUTER GRAPHICS
+MWF
+12:00
+pm-
+12:50
+pm
+20
+12
+8
+0
+0
+0
+60
+31
+29
+Tolga Can (P) 
+01/10-
+05/12
+MZ 026
+NR
+11535 CSCI
+446
+A
+C
+3.000
+WEB APPLICATIONS
+MWF
+04:00
+pm-
+04:50
+pm
+80
+79
+1
+0
+0
+0
+0
+0
+0
+Eric
+Lawrence
+Dattore (P),
+Wendy
+Denise Fisher
+01/10-
+05/12
+CK 130
+
+NR
+10662 CSCI
+448
+A
+C
+3.000
+MOBILE APPLICATION DEVELOPMENT
+MWF
+02:00
+pm-
+02:50
+pm
+75
+70
+5
+0
+0
+0
+0
+0
+0
+Jeffrey R
+Paone (P)
+01/10-
+05/12
+CK 130
+
+NR
+12326 CSCI
+470
+OL
+C
+3.000
+INTRODUCTION TO MACHINE LEARNING
+AAA
+00:00
+zm-
+00:00
+zm
+22
+19
+3
+0
+0
+0
+37
+34
+3
+Wendy
+Denise Fisher
+(P)
+03/13-
+05/10
+UG_Req
+
+NR
+10782 CSCI
+473
+A
+C
+3.000
+HUMAN-CENTERED ROBOTICS
+MW
+07:30
+am-
+08:45
+am
+70
+66
+4
+0
+0
+0
+85
+77
+8
+Terran Mott
+(P), Mark
+Higger ,
+Thomas
+Emrys
+Williams
+01/10-
+05/12
+GC PET
+UG_Req
+
+NR
+10624 CSCI
+474
+A
+C
+3.000
+INTRODUCTION TO CRYPTOGRAPHY
+TR
+05:00
+pm-
+06:15
+pm
+67
+62
+5
+0
+0
+0
+95
+83
+12
+Chuan Yue
+(P)
+01/10-
+05/12
+GC PET
+
+NR
+10843 CSCI
+477
+A
+C
+3.000
+ELEMENTS OF GAMES AND GAME DEVELOPMENT
+MWF
+09:00
+am-
+09:50
+am
+55
+49
+6
+0
+0
+0
+0
+0
+0
+Kathleen
+Marie Kelly
+(P)
+01/10-
+05/12
+MZ 026
+NR
+11536 CSCI
+477
+B
+C
+3.000
+ELEMENTS OF GAMES AND GAME DEVELOPMENT
+MWF
+11:00
+am-
+11:50
+am
+74
+73
+1
+0
+0
+0
+0
+0
+0
+Kathleen
+Marie Kelly
+(P)
+01/10-
+05/12
+CK 130
