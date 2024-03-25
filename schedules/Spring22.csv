@@ -1,4 +1,4 @@
-Select,CRN,Subj,Section,CMP,Credits,Title,Days,Time,Cap,Act,WL Cap,WL Act,WL Rem,XL Cap,XL Act,XL Rem,Instructors,Date,Location,Attributes
+Select,CRN,Subj,CrseNum,Section,CMP,Credits,Title,Days,Time,Cap,Act,Rem,WL Cap,WL Act,WL Rem,XL Cap,XL Act,XL Rem,Instructors,Date,Location,Attributes
 NR,10235,CSCI,101,A,C,3.000,INTRODUCTION TO COMPUTER SCIENCE,MWF,01:00pm-01:50pm,60,59,1,0,0,0,0,0,0,"Grace Katherine Jung (P), Robert Haven Thompson",01/11-05/13,MZ 235,UG_Req
 C,10811,CSCI,101,B,C,3.000,INTRODUCTION TO COMPUTER SCIENCE,MWF,02:00pm-02:50pm,60,63,-3,0,0,0,0,0,0,Robert Haven Thompson (P),01/11-05/13,MZ 235,UG_Req
 C,10812,CSCI,101,C,C,3.000,INTRODUCTION TO COMPUTER SCIENCE,MWF,03:00pm-03:50pm,60,60,0,0,0,0,0,0,0,Robert Haven Thompson (P),01/11-05/13,AH 330,UG_Req

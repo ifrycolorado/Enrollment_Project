@@ -1,4 +1,4 @@
-Select,CRN,Subj,Section,CMP,Credits,Title,Days,Time,Cap,Act,WL Cap,WL Act,WL Rem,XL Cap,XL Act,XL Rem,Instructors,Date,Location,Attributes
+Select,CRN,Subj,CrseNum,Section,CMP,Credits,Title,Days,Time,Cap,Act,Rem,WL Cap,WL Act,WL Rem,XL Cap,XL Act,XL Rem,Instructors,Date,Location,Attributes
 NR,82206,CSCI,128,A,C,3.000,COMPUTER SCIENCE FOR STEM,MWF,12:00pm-12:50pm,63,59,4,0,0,0,0,0,0,"Christine Liebe (P), Robert Haven Thompson",08/21-12/15,BB W210,No_Special_Notes
 C,82207,CSCI,128,B,C,3.000,COMPUTER SCIENCE FOR STEM,MWF,12:00pm-12:50pm,72,72,0,0,0,0,0,0,0,"Victoria Laine Messmore (P), Robert Haven Thompson",08/21-12/15,MZ 326,No_Special_Notes
 NR,82220,CSCI,128,C,C,3.000,COMPUTER SCIENCE FOR STEM,MWF,12:00pm-12:50pm,86,85,1,0,0,0,0,0,0,"Drew Robert Cornmesser (P), Robert Haven Thompson",08/21-12/15,BB W250,No_Special_Notes
@@ -35,7 +35,7 @@ NR,80728,CSCI,306,C,C,3.000,SOFTWARE ENGINEERING,TR,02:00pm-03:15pm,60,49,11,25,
 C,80864,CSCI,341,A,C,3.000,COMPUTER ORGANIZATION,TR,12:30pm-01:45pm,90,90,0,25,0,25,0,0,0,Bo Wu (P),08/21-12/15,GC PET,UG_Req
 NR,80103,CSCI,341,B,C,3.000,COMPUTER ORGANIZATION,MW,04:30pm-05:45pm,63,59,4,25,0,25,0,0,0,Kelsey Rae Fulton (P),08/21-12/15,BB W210,UG_Req
 NR,80619,CSCI,358,A,C,3.000,DISCRETE MATHEMATICS,TR,09:30am-10:45am,95,92,3,0,0,0,0,0,0,Dejun Yang (P),08/21-12/15,GC MET,UG_Req
-C,81162,CSCI,358,B,C,3.000,DISCRETE MATHEMATICS,MWF,09:00am-09:50am,102,102 0,0,0,0,0,0,0,Terry Joe,Bridgman (P),08/21-12/15,BB W280,UG_Req
+C,81162,CSCI,358,B,C,3.000,DISCRETE MATHEMATICS,MWF,09:00am-09:50am,102,102,0,0,0,0,0,0,0,Terry Joe Bridgman (P),08/21-12/15,BB W280,UG_Req
 C,81163,CSCI,370,A,C,5.000,ADVANCED SOFTWARE ENGINEERING,TR,09:30am-12:15pm,120,126 ,-6,0,0,0,0,0,0,"Kathleen Marie Kelly (P), Ruth Iris Bahar, Donna Marie Bodeau, Lorenzo Joseph Gallegos, Jonathan David Lindemann- Michael, Christopher Robert Painter- Wakefield, Chloe Ross, Bo Wu",08/21-12/15,GC PET,UG_Req
 NR,81726,CSCI,390,A,C,1.000,PROGRAMMING CHALLENGES II,R,03:30pm-04:20pm,15,1,14,25,0,25,60,31,29,"Lucas Henke (P), Wendy Denise Fisher , Jeffrey R Paone",08/21-12/15,MZ 108,No_Special_Notes
 NR,81525,CSCI,395,A,C,1.000,INDUSTRY EXPLORATION II,W,03:00pm-05:59pm,20,9,11,10,0,10,0,0,0,"Justyna Glode (P), Wendy Denise Fisher",08/21-12/15,MZ 108,No_Special_Notes
