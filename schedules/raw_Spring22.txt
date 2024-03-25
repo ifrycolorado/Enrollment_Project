@@ -1,0 +1,3604 @@
+NR
+10235 CSCI
+101
+A
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+01:00
+pm-
+01:50
+pm
+60
+59
+1
+0
+0
+0
+0
+0
+0
+Grace
+Katherine
+Jung (P),
+Robert Haven
+Thompson
+01/11-
+05/13
+MZ 235
+UG_Req
+
+C
+10811 CSCI
+101
+B
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+02:00
+pm-
+02:50
+pm
+60
+63
+-3
+0
+0
+0
+0
+0
+0
+Robert Haven
+Thompson
+(P)
+01/11-
+05/13
+MZ 235
+UG_Req
+
+C
+10812 CSCI
+101
+C
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+03:00
+pm-
+03:50
+pm
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Robert Haven
+Thompson
+(P)
+01/11-
+05/13
+AH 330
+UG_Req
+
+C
+10264 CSCI
+101
+D
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+01:00
+pm-
+01:50
+pm
+65
+66
+-1
+0
+0
+0
+0
+0
+0
+Clark
+Scholten (P),
+Robert Haven
+Thompson
+01/11-
+05/13
+BB W250
+UG_Req
+
+NR
+11319 CSCI
+101
+E
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+02:00
+pm-
+02:50
+pm
+65
+62
+3
+0
+0
+0
+0
+0
+0
+Megan
+Kinsley
+Shapiro (P),
+Robert Haven
+Thompson
+01/11-
+05/13
+AH 340
+UG_Req
+
+NR
+11320 CSCI
+101
+F
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+03:00
+pm-
+03:50
+pm
+65
+58
+7
+0
+0
+0
+0
+0
+0
+Megan
+Kinsley
+Shapiro (P),
+Robert Haven
+Thompson
+01/11-
+05/13
+AH 340
+UG_Req
+
+NR
+11321 CSCI
+101
+G
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+04:00
+pm-
+04:50
+pm
+65
+58
+7
+0
+0
+0
+0
+0
+0
+Clark
+Scholten (P),
+Robert Haven
+Thompson
+01/11-
+05/13
+CK 130
+UG_Req
+
+NR
+11322 CSCI
+101
+H
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+04:00
+pm-
+04:50
+pm
+65
+64
+1
+0
+0
+0
+0
+0
+0
+Rion Gipson-
+Hansen (P),
+Robert Haven
+Thompson
+01/11-
+05/13
+BB W250
+UG_Req
+
+NR
+12221 CSCI
+101
+I
+C
+3.000
+INTRODUCTION TO COMPUTER SCIENCE
+MWF
+03:00
+pm-
+03:50
+pm
+65
+62
+3
+0
+0
+0
+0
+0
+0
+Connor Allan
+Barnes (P),
+Robert Haven
+Thompson
+01/11-
+05/13
+MZ 326
+UG_Req
+
+NR
+11126 CSCI
+102
+A
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+09:30
+am-
+10:45
+am
+60
+58
+2
+0
+0
+0
+0
+0
+0
+Tanner Scott
+Lee (P),
+Christine
+Liebe
+01/11-
+05/13
+MZ 022
+NR
+11127 CSCI
+102
+B
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+09:30
+am-
+10:45
+am
+90
+89
+1
+0
+0
+0
+0
+0
+0
+Kyle Shay
+Thomas
+Moran (P),
+Christine
+Liebe
+01/11-
+05/13
+CK 130
+C
+11128 CSCI
+102
+C
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+11:00
+am-
+12:15
+pm
+95
+95
+0
+0
+0
+0
+0
+0
+0
+Eric William
+Roels (P),
+Christine
+Liebe
+01/11-
+05/13
+CK 130
+C
+11323 CSCI
+102
+D
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+11:00
+am-
+12:15
+pm
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Christine
+Liebe (P)
+01/11-
+05/13
+MZ 022
+C
+11324 CSCI
+102
+E
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+03:30
+pm-
+04:45
+pm
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Eric William
+Roels (P),
+Christine
+Liebe
+01/11-
+05/13
+MZ 022
+NR
+11325 CSCI
+102
+F
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+03:30
+pm-
+04:45
+pm
+60
+58
+2
+0
+0
+0
+0
+0
+0
+Shane
+Romero (P),
+Christine
+Liebe
+01/11-
+05/13
+MZ 026
+NR
+11575 CSCI
+102
+G
+C
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+TR
+02:00
+pm-
+03:15
+60
+18
+42
+0
+0
+0
+0
+0
+0
+JoAnn Regina
+Hemann (P),
+Christine
+01/11-
+05/13
+MZ 022
+pm
+Liebe
+C
+11928 CSCI
+102
+OL
+O
+1.000
+INTRODUCTION TO COMPUTER SCIENCE - LAB
+AAA
+00:00
+zm-
+00:00
+zm
+40
+40
+0
+0
+0
+0
+0
+0
+0
+Christine
+Liebe (P)
+01/11-
+03/08
+ONLINE
+
+NR
+10827 CSCI
+250
+A
+C
+3.000
+PYTHON-BASED
+COMPUTING:
+BUILDING A
+SENSOR
+SYSTEM
+MWF
+03:00
+pm-
+03:50
+pm
+72
+71
+1
+0
+0
+0
+0
+0
+0
+Phillip
+Richardson
+Romig (P)
+01/11-
+05/13
+MZ 022
+UG_Req
+
+NR
+10828 CSCI
+250
+B
+C
+3.000
+PYTHON-BASED
+COMPUTING:
+BUILDING A
+SENSOR
+SYSTEM
+MWF
+01:00
+pm-
+01:50
+pm
+70
+63
+7
+0
+0
+0
+0
+0
+0
+Phillip
+Richardson
+Romig (P)
+01/11-
+05/13
+MZ 022
+UG_Req
+
+NR
+10042 CSCI
+261
+B
+C
+3.000
+PROGRAMMING CONCEPTS
+MWF
+09:00
+am-
+09:50
+am
+60
+49
+11
+0
+0
+0
+0
+0
+0
+Amy N Hong
+(P), Jeffrey R
+Paone
+01/11-
+05/13
+MZ 022
+UG_Req
+
+NR
+10043 CSCI
+261
+C
+C
+3.000
+PROGRAMMING CONCEPTS
+MWF
+10:00
+am-
+10:50
+am
+60
+58
+2
+0
+0
+0
+0
+0
+0
+Jeffrey R
+Paone (P)
+01/11-
+05/13
+MZ 022
+UG_Req
+
+NR
+10044 CSCI
+261
+D
+C
+3.000
+PROGRAMMING CONCEPTS
+MWF
+11:00
+am-
+11:50
+am
+60
+59
+1
+0
+0
+0
+0
+0
+0
+Jeffrey R
+Paone (P)
+01/11-
+05/13
+MZ 022
+UG_Req
+
+C
+10788 CSCI
+261
+E
+C
+3.000
+PROGRAMMING CONCEPTS
+MWF
+12:00
+pm-
+12:50
+pm
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Armando Eric
+Ocampo (P),
+Jeffrey R
+Paone
+01/11-
+05/13
+MZ 022
+UG_Req
+
+NR
+10045 CSCI
+262
+A
+C
+3.000
+DATA STRUCTURES
+MW
+12:00
+pm-
+12:50
+pm
+60
+59
+1
+0
+0
+0
+0
+0
+0
+Christopher
+Robert
+Painter-
+Wakefield (P)
+01/11-
+05/13
+MZ 126
+UG_Req
+
+C
+10046 CSCI
+262
+B
+C
+3.000
+DATA STRUCTURES
+MW
+01:00
+pm-
+01:50
+pm
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Christopher
+Robert
+Painter-
+Wakefield (P)
+01/11-
+05/13
+MZ 126
+UG_Req
+
+NR
+11129 CSCI
+262
+C
+C
+3.000
+DATA STRUCTURES
+MW
+02:00
+pm-
+02:50
+pm
+60
+37
+23
+0
+0
+0
+0
+0
+0
+Joseph R
+Lovato (P),
+Christopher
+Robert
+Painter-
+Wakefield
+01/11-
+05/13
+BE 243
+UG_Req
+
+NR
+10813 CSCI
+262
+R01 C
+0.000
+DATA STRUCTURES
+F
+12:00
+pm-
+12:50
+pm
+60
+56
+4
+0
+0
+0
+0
+0
+0
+Christopher
+Robert
+Painter-
+Wakefield (P)
+01/11-
+05/13
+MZ 026
+UG_Req
+
+NR
+10864 CSCI
+262
+R02 C
+0.000
+DATA STRUCTURES
+F
+01:00
+pm-
+01:50
+pm
+60
+50
+10
+0
+0
+0
+0
+0
+0
+Christopher
+Robert
+Painter-
+Wakefield (P)
+01/11-
+05/13
+MZ 026
+UG_Req
+
+NR
+10865 CSCI
+262
+R03 C
+0.000
+DATA STRUCTURES
+F
+02:00
+pm-
+02:50
+pm
+60
+33
+27
+0
+0
+0
+0
+0
+0
+Joseph R
+Lovato (P),
+Christopher
+Robert
+Painter-
+Wakefield
+01/11-
+05/13
+MZ 026
+UG_Req
+
+NR
+11130 CSCI
+262
+R04 C
+0.000
+DATA STRUCTURES
+F
+11:00
+am-
+11:50
+am
+60
+17
+43
+0
+0
+0
+0
+0
+0
+Joseph R
+Lovato (P),
+Christopher
+Robert
+Painter-
+Wakefield
+01/11-
+05/13
+MZ 026
+UG_Req
+
+NR
+10438 CSCI
+274
+A
+C
+1.000
+INTRODUCTION TO THE LINUX OPERATING SYSTEM
+M
+02:00
+pm-
+02:50
+pm
+60
+57
+3
+0
+0
+0
+0
+0
+0
+Seth David
+Dale (P),
+Ameliaann
+Blaisy Read
+01/11-
+05/13
+CK 130
+UG_Req
+
+NR
+10800 CSCI
+274
+B
+C
+1.000
+INTRODUCTION TO THE LINUX OPERATING SYSTEM
+W
+01:00
+pm-
+01:50
+pm
+60
+35
+25
+0
+0
+0
+0
+0
+0
+Seth David
+Dale (P),
+Ameliaann
+Blaisy Read
+01/11-
+05/13
+MZ 026
+UG_Req
+
+NR
+10862 CSCI
+274
+C
+C
+1.000
+INTRODUCTION TO THE LINUX OPERATING SYSTEM
+F
+11:00
+am-
+11:50
+am
+60
+59
+1
+0
+0
+0
+0
+0
+0
+Seth David
+Dale (P),
+Ameliaann
+Blaisy Read
+01/11-
+05/13
+CT 231
+UG_Req
+
+NR
+12187 CSCI
+290
+A
+C
+1.000
+PROGRAMMING
+CHALLENGES I
+R
+03:30
+pm-
+04:20
+pm
+44
+31
+13
+0
+0
+0
+0
+0
+0
+Wendy
+Denise Fisher
+(P), Jeffrey R
+Paone
+01/11-
+05/13
+AH 130
+NR
+12225 CSCI
+295
+A
+C
+1.000
+INDUSTRY
+EXPLORATION I
+W
+03:00
+pm-
+03:59
+pm
+40
+12
+28
+0
+0
+0
+0
+0
+0
+Wendy
+Denise Fisher
+(P)
+01/11-
+05/13
+CO 212
+C
+10829 CSCI
+303
+A
+C
+3.000
+INTRODUCTION
+TO DATA
+SCIENCE
+TR
+02:00
+pm-
+03:15
+pm
+55
+56
+-1
+0
+0
+0
+72
+71
+1
+Morgan
+Dallas Cox
+(P), Wendy
+Denise Fisher
+01/11-
+05/13
+MZ 226
+UG_Req
+
+C
+11420 CSCI
+303
+B
+C
+3.000
+INTRODUCTION
+TO DATA
+SCIENCE
+TR
+12:30
+pm-
+01:45
+pm
+35
+40
+-5
+0
+0
+0
+50
+50
+0
+Wendy
+Denise Fisher
+(P)
+01/11-
+05/13
+MZ 122
+UG_Req
+
+NR
+11577 CSCI
+303
+OL
+O
+3.000
+INTRODUCTION
+AAA
+00:00
+zm-
+00:00
+zm
+30
+23
+7
+0
+0
+0
+45
+37
+8
+Wendy
+01/11-
+ONLINE UG
+TO DATA
+SCIENCE
+Denise Fisher
+(P)
+05/13
+Required
+Crse for
+Schdlng
+NR
+10047 CSCI
+306
+A
+C
+3.000
+SOFTWARE ENGINEERING
+TR
+12:30
+pm-
+01:45
+pm
+60
+59
+1
+0
+0
+0
+0
+0
+0
+Mark Lewis
+Baldwin (P)
+01/11-
+05/13
+MZ 026
+UG_Req
+
+NR
+10783 CSCI
+306
+B
+C
+3.000
+SOFTWARE ENGINEERING
+TR
+02:00
+pm-
+03:15
+pm
+60
+59
+1
+0
+0
+0
+0
+0
+0
+Mark Lewis
+Baldwin (P)
+01/11-
+05/13
+MZ 026
+UG_Req
+
+NR
+11929 CSCI
+306
+C
+C
+3.000
+SOFTWARE ENGINEERING
+TR
+12:30
+pm-
+01:45
+pm
+50
+47
+3
+0
+0
+0
+0
+0
+0
+Mark Lewis
+Baldwin (P),
+Caleb Loyal
+Bartel
+01/11-
+05/13
+CK 130
+UG_Req
+
+NR
+11578 CSCI
+306
+OL
+O
+3.000
+SOFTWARE ENGINEERING
+TR
+05:00
+pm-
+06:15
+pm
+40
+32
+8
+0
+0
+0
+0
+0
+0
+Mark Lewis
+Baldwin (P),
+Caleb Loyal
+Bartel
+01/11-
+05/13
+ONLINE
+UG_Req
+
+C
+10863 CSCI
+341
+A
+C
+3.000
+COMPUTER ORGANIZATION
+TR
+11:00
+am-
+12:15
+pm
+70
+70
+0
+0
+0
+0
+0
+0
+0
+Qi Han (P)
+01/11-
+05/13
+BE 108
+UG_Req
+
+NR
+10050 CSCI
+341
+B
+C
+3.000
+COMPUTER ORGANIZATION
+TR
+02:00
+pm-
+03:15
+pm
+70
+69
+1
+0
+0
+0
+0
+0
+0
+Ethan Ludlow
+Perry (P), Qi
+Han
+01/11-
+05/13
+MZ 326
+UG_Req
+
+NR
+10696 CSCI
+358
+A
+C
+3.000
+DISCRETE MATHEMATICS
+TR
+09:30
+am-
+10:45
+am
+68
+67
+1
+0
+0
+0
+0
+0
+0
+Dejun Yang
+(P)
+01/11-
+05/13
+AH 330
+UG_Req
+
+NR
+10784 CSCI
+358
+B
+C
+3.000
+DISCRETE MATHEMATICS
+TR
+11:00
+am-
+12:15
+pm
+68
+67
+1
+0
+0
+0
+0
+0
+0
+Dejun Yang
+(P)
+01/11-
+05/13
+AH 340
+UG_Req
+
+NR
+12223 CSCI
+358
+C
+C
+3.000
+DISCRETE MATHEMATICS
+TR
+02:00
+pm-
+03:15
+pm
+42
+29
+13
+0
+0
+0
+0
+0
+0
+Dejun Yang
+(P)
+01/11-
+05/13
+LB 119
+UG_Req
+
+NR
+10051 CSCI
+400
+A
+C
+3.000
+PRINCIPLES OF PROGRAMMING LANGUAGES
+TR
+09:30
+am-
+10:45
+am
+63
+57
+6
+0
+0
+0
+0
+0
+0
+Neil T
+Dantam (P)
+01/11-
+05/13
+MZ 108
+UG_Req
+
+NR
+11610 CSCI
+400
+B
+C
+3.000
+PRINCIPLES OF PROGRAMMING LANGUAGES
+TR
+11:00
+am-
+12:15
+pm
+63
+60
+3
+0
+0
+0
+0
+0
+0
+Neil T
+Dantam (P)
+01/11-
+05/13
+MZ 108
+UG_Req
+
+NR
+10830 CSCI
+404
+A
+C
+3.000
+ARTIFICIAL
+INTELLIGENCE
+TR
+02:00
+pm-
+03:15
+pm
+148
+145 3
+0
+0
+0
+0
+0
+0
+Hua Wang
+(P)
+01/11-
+05/13
+BE 241
+UG_Req
+
+C
+10831 CSCI
+406
+A
+C
+3.000
+ALGORITHMS
+MWF
+12:00
+pm-
+12:50
+pm
+86
+86
+0
+0
+0
+0
+0
+0
+0
+Jonathan
+Sumner Van
+Evans (P),
+Dinesh
+Prakash
+Mehta
+01/11-
+05/13
+BB W250
+UG_Req
+
+NR
+10153 CSCI
+406
+B
+C
+3.000
+ALGORITHMS
+MWF
+01:00
+pm-
+01:50
+pm
+92
+90
+2
+0
+0
+0
+0
+0
+0
+Jonathan
+Sumner Van
+Evans (P),
+Dinesh
+Prakash
+Mehta
+01/11-
+05/13
+CT 231
+UG_Req
+
+NR
+11579 CSCI
+410
+A
+C
+3.000
+ELEMENTS OF
+COMPUTING
+SYSTEMS
+MWF
+03:00
+pm-
+03:50
+pm
+64
+62
+2
+0
+0
+0
+0
+0
+0
+Christopher
+Robert
+Painter-
+Wakefield (P)
+01/11-
+05/13
+BB W210
+NR
+11917 CSCI
+425
+A
+C
+3.000
+COMPILER
+DESIGN
+MWF
+11:00
+am-
+11:50
+am
+40
+30
+10
+0
+0
+0
+0
+0
+0
+Keith E
+Hellman (P)
+01/11-
+05/13
+LB 121
+C
+11393 CSCI
+432
+A
+C
+3.000
+ROBOT ETHICS
+TR
+12:30
+pm-
+01:45
+pm
+40
+41
+-1
+0
+0
+0
+60
+59
+1
+Thomas
+Emrys
+Williams (P),
+Qin Zhu
+01/11-
+05/13
+MZ 235
+C
+10052 CSCI
+442
+A
+C
+3.000
+OPERATING
+SYSTEMS
+TR
+12:30
+pm-
+01:45
+pm
+73
+73
+0
+0
+0
+0
+0
+0
+0
+Mehmet Esat
+Belviranli (P)
+01/11-
+05/13
+MZ 126
+UG_Req
+
+NR
+11442 CSCI
+442
+B
+C
+3.000
+OPERATING
+SYSTEMS
+TR
+02:00
+pm-
+03:15
+pm
+70
+57
+13
+0
+0
+0
+0
+0
+0
+Dong Chen
+(P), Mehmet
+Esat
+Belviranli
+01/11-
+05/13
+BB W250
+UG_Req
+
+NR
+11702 CSCI
+442
+C
+C
+3.000
+OPERATING
+SYSTEMS
+TR
+02:00
+pm-
+03:15
+pm
+50
+46
+4
+0
+0
+0
+0
+0
+0
+Mehmet Esat
+Belviranli (P)
+01/11-
+05/13
+CK 150
+UG_Req
+
+NR
+11913 CSCI
+446
+A
+C
+3.000
+WEB
+APPLICATIONS
+MWF
+04:00
+pm-
+04:50
+pm
+60
+49
+11
+0
+0
+0
+0
+0
+0
+Eric
+Lawrence
+Dattore (P)
+01/11-
+05/13
+MZ 108
+C
+10701 CSCI
+448
+A
+C
+3.000
+MOBILE
+APPLICATION
+MWF
+02:00
+pm-
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Jeffrey R
+Paone (P)
+01/11-
+05/13
+MZ 022
+DEVELOPMENT
+02:50
+pm
+C
+10832 CSCI
+473
+A
+C
+3.000
+HUMAN-
+CENTERED
+ROBOTICS
+MW
+07:30
+am-
+08:45
+am
+44
+48
+-4
+0
+0
+0
+64
+66
+-2
+Hao Zhang
+(P)
+01/11-
+05/13
+CO 219
+UG_Req
+
+NR
+10660 CSCI
+474
+A
+C
+3.000
+INTRODUCTION
+TO
+CRYPTOGRAPHY
+TR
+09:30
+am-
+10:45
+am
+60
+49
+11
+0
+0
+0
+80
+64
+16
+Weiping Pei
+(P), Chuan
+Yue
+01/11-
+05/13
+BB W280
+NR
+12173 CSCI
+474
+B
+C
+3.000
+INTRODUCTION
+TO
+CRYPTOGRAPHY
+TR
+12:30
+pm-
+01:45
+pm
+22
+19
+3
+0
+0
+0
+40
+32
+8
+Weiping Pei
+(P), Chuan
+Yue
+01/11-
+05/13
+BE 106
+C
+10903 CSCI
+477
+A
+C
+3.000
+ELEMENTS OF
+GAMES AND
+GAME
+DEVELOPMENT
+MWF
+09:00
+am-
+09:50
+am
+60
+60
+0
+0
+0
+0
+0
+0
+0
+Kathleen
+Marie Kelly
+(P)
+01/11-
+05/13
+MZ 026
+C
+11914 CSCI
+477
+B
+C
+3.000
+ELEMENTS OF
+GAMES AND
+GAME
+DEVELOPMENT
+MW
+11:00
+am-
+12:15
+pm
+34
+33
+1
+0
+0
+0
+60
+60
+0
+Kathleen
+Marie Kelly
+(P)
+01/11-
+05/13
+MZ 026
+NR
+11229 CSCI
+480
+A
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Tracy K
+Camp (P)
+01/11-
+05/13
+NR NR
+NR
+11230 CSCI
+480
+B
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Neil T
+Dantam (P)
+01/11-
+05/13
+NR NR
+NR
+11231 CSCI
+480
+C
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Qi Han (P)
+01/11-
+05/13
+NR NR
+NR
+11233 CSCI
+480
+E
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Dinesh
+Prakash
+Mehta (P)
+01/11-
+05/13
+NR NR
+NR
+11234 CSCI
+480
+F
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+1
+2
+0
+0
+0
+0
+0
+0
+Hua Wang
+(P)
+01/11-
+05/13
+NR NR
+NR
+11235 CSCI
+480
+G
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Thomas
+Emrys
+Williams (P)
+01/11-
+05/13
+NR NR
+NR
+11236 CSCI
+480
+H
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Bo Wu (P)
+01/11-
+05/13
+NR NR
+NR
+11237 CSCI
+480
+I
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Dejun Yang
+(P)
+01/11-
+05/13
+NR NR
+NR
+11238 CSCI
+480
+J
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Chuan Yue
+(P)
+01/11-
+05/13
+NR NR
+NR
+11239 CSCI
+480
+K
+C
+3.000
+COMPUTER
+SCIENCE
+HONORS
+THESIS
+AAA
+00:00
+zm-
+00:00
+zm
+3
+0
+3
+0
+0
+0
+0
+0
+0
+Hao Zhang
+(P)
+01/11-
+05/13
+NR NR
+NR
+11923 CSCI
+498A A
+C
+3.000
+SP TPS:
+INTRODUCTION
+TO HCI
+MWF
+12:00
+pm-
+12:50
+pm
+20
+18
+2
+0
+0
+0
+0
+0
+0
+Robert Haven
+Thompson
+(P)
+01/11-
+05/13
+BE 204
+Computer
+Science
+Elective
+NR
+12275 CSCI
+498A C
+C
+3.000
+SP TPS:
+COMPUTER
+SCIENCE
+TEACHING
+TECHNIQUES
+TR
+07:00
+pm-
+08:15
+pm
+15
+6
+9
+0
+0
+0
+25
+15
+10
+Christine
+Liebe (P)
+01/11-
+05/13
+MZ 022
+Computer
+Science
+Elective
+NR
+11583 CSCI
+532
+A
+C
+3.000
+ROBOT ETHICS
+TR
+12:30
+pm-
+01:45
+pm
+20
+18
+2
+0
+0
+0
+60
+59
+1
+Thomas
+Emrys
+Williams (P),
+Qin Zhu
+01/11-
+05/13
+MZ 235
+NR
+11394 CSCI
+534
+A
+C
+3.000
+ROBOT
+PLANNING AND
+MANIPULATION
+TR
+11:00
+am-
+12:15
+pm
+25
+23
+2
+0
+0
+0
+0
+0
+0
+Sihui Li (P),
+Neil T
+Dantam
+01/11-
+05/13
+CO 212
+NR
+10801 CSCI
+564
+A
+C
+3.000
+ADVANCED
+COMPUTER
+ARCHITECTURE
+MW
+04:30
+pm-
+05:45
+pm
+71
+70
+1
+0
+0
+0
+0
+0
+0
+Jay R
+Moorman
+(P), Bo Wu
+01/11-
+05/13
+MZ 126
+C
+10833 CSCI
+573
+A
+C
+3.000
+HUMAN-
+CENTERED
+ROBOTICS
+MW
+07:30
+am-
+08:45
+am
+20
+18
+2
+0
+0
+0
+64
+66
+-2
+Hao Zhang
+(P)
+01/11-
+05/13
+CO 219
+NR
+10834 CSCI
+574
+A
+C
+3.000
+THEORY OF
+CRYPTOGRAPHY
+TR
+09:30
+am-
+10:45
+am
+20
+15
+5
+0
+0
+0
+80
+64
+16
+Weiping Pei
+(P), Chuan
+Yue
+01/11-
+05/13
+BB W280
+NR
+12174 CSCI
+574
+B
+C
+3.000
+THEORY OF
+TR
+12:30 18
+13
+5
+0
+0
+0
+40
+32
+8
+Weiping Pei
+01/11-
+BE 106
+CRYPTOGRAPHY
+pm-
+01:45
+pm
+(P), Chuan
+Yue
+05/13
+NR
+11584 CSCI
+575
+A
+C
+3.000
+ADVANCED
+MACHINE
+LEARNING
+TR
+03:30
+pm-
+04:45
+pm
+58
+49
+9
+0
+0
+0
+68
+57
+11
+Xiangyu Li
+(P), Hua
+Wang
+01/11-
+05/13
+AH 330
+NR
+11918 CSCI
+575
+OL
+O
+3.000
+ADVANCED
+MACHINE
+LEARNING
+AAA
+00:00
+zm-
+00:00
+zm
+40
+31
+9
+0
+0
+0
+45
+42
+3
+Hua Wang
+(P)
+03/14-
+05/13
+ONLINE
+
+NR
+11585 CSCI
+581
+A
+C
+3.000
+QUANTUM
+PROGRAMMING
+TR
+02:00
+pm-
+03:15
+pm
+60
+8
+52
+0
+0
+0
+0
+0
+0
+Eliot Kapit
+(P)
+01/11-
+05/13
+EH 211
+NR
+11329 CSCI
+587
+A
+C
+3.000
+CYBER
+PHYSICAL
+SYSTEMS
+SECURITY
+M
+06:00
+pm-
+08:30
+pm
+30
+25
+5
+0
+0
+0
+0
+0
+0
+Shane McFly
+(P), Chuan
+Yue
+01/11-
+05/13
+CK 140
+NR
+11925 CSCI
+598A B
+C
+3.000
+SP TPS: DATA
+MGMT FOR
+IoT/CPS
+MW
+11:00
+am-
+12:15
+pm
+20
+7
+13
+0
+0
+0
+0
+0
+0
+Gabriel
+Tomas Fierro
+(P)
+01/11-
+05/13
+AH 130
+NR
+12121 CSCI
+598A C
+C
+3.000
+SP TPS:
+APPLICATION
+DEVELOPMENT
+FOR
+ENGINEERS
+AND
+SCIENTISTS
+TR
+02:00
+pm-
+03:15
+pm
+10
+8
+2
+0
+0
+0
+15
+11
+4
+Owen James
+Hildreth (P)
+01/11-
+05/13
+BB 269
+C
+12152 CSCI
+598A D
+C
+3.000
+SP TPS: GAME
+DEVELOPMENT
+MW
+11:00
+am-
+12:15
+pm
+26
+27
+-1
+0
+0
+0
+60
+60
+0
+Kathleen
+Marie Kelly
+(P)
+01/11-
+05/13
+MZ 026
+NR
+10385 CSCI
+700
+01
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Tracy K
+Camp (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10386 CSCI
+700
+02
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Hua Wang
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10387 CSCI
+700
+03
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Qi Han (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10388 CSCI
+700
+04
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Dinesh
+Prakash
+Mehta (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10389 CSCI
+700
+05
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Mahadevan
+Ganesh (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10560 CSCI
+700
+06
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Dejun Yang
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10661 CSCI
+700
+08
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Dejun Yang
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10662 CSCI
+700
+09
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Hao Zhang
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10709 CSCI
+700
+10
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Chuan Yue
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10835 CSCI
+700
+11
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Neil T
+Dantam (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10836 CSCI
+700
+12
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Thomas
+Emrys
+Williams (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+11435 CSCI
+700
+13
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Mehmet Esat
+Belviranli (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+11782 CSCI
+700
+14
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Wendy
+Denise Fisher
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+11835 CSCI
+700
+15
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Jedidiah R
+McClurg (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+C
+12254 CSCI
+700
+16
+C
+1.000-
+6.000
+MASTERS
+PROJECT
+CREDITS
+AAA
+00:00
+zm-
+00:00
+zm
+1
+1
+0
+0
+0
+0
+0
+0
+0
+Chuan Yue
+(P), Phillip
+Richardson
+Romig
+01/11-
+05/13
+AAA
+00:00
+zm-
+00:00
+zm
+Summer_Grad_TARA_Fee
+
+NR
+10289 CSCI
+707
+01
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Dinesh
+Prakash
+Mehta (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10290 CSCI
+707
+02
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Tracy K
+Camp (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10291 CSCI
+707
+03
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+AAA
+00:00
+zm-
+00:00
+zm
+30
+5
+25
+0
+0
+0
+0
+0
+0
+Hua Wang
+(P)
+01/11-
+05/13
+NR NR
+Summer
+Graduate
+RELEASE: 8.7.2.4
+DISSERTATION
+RESEARCH
+CREDIT
+TA/RA Fee
+NR
+10292 CSCI
+707
+04
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+0
+30
+0
+0
+0
+0
+0
+0
+Mahadevan
+Ganesh (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10293 CSCI
+707
+05
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+2
+28
+0
+0
+0
+0
+0
+0
+Qi Han (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10562 CSCI
+707
+07
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+2
+28
+0
+0
+0
+0
+0
+0
+Dejun Yang
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10663 CSCI
+707
+08
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+6
+24
+0
+0
+0
+0
+0
+0
+Bo Wu (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10664 CSCI
+707
+09
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+4
+26
+0
+0
+0
+0
+0
+0
+Hao Zhang
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10710 CSCI
+707
+10
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+5
+25
+0
+0
+0
+0
+0
+0
+Chuan Yue
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10837 CSCI
+707
+11
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+3
+27
+0
+0
+0
+0
+0
+0
+Neil T
+Dantam (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+10838 CSCI
+707
+12
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+5
+25
+0
+0
+0
+0
+0
+0
+Thomas
+Emrys
+Williams (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+11429 CSCI
+707
+13
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+2
+28
+0
+0
+0
+0
+0
+0
+Jedidiah R
+McClurg (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+11444 CSCI
+707
+14
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+4
+26
+0
+0
+0
+0
+0
+0
+Mehmet Esat
+Belviranli (P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+12335 CSCI
+707
+15
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Robert Haven
+Thompson
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
+NR
+12378 CSCI
+707
+16
+C
+1.000-
+15.000
+GRADUATE
+THESIS /
+DISSERTATION
+RESEARCH
+CREDIT
+AAA
+00:00
+zm-
+00:00
+zm
+30
+1
+29
+0
+0
+0
+0
+0
+0
+Dong Chen
+(P)
+01/11-
+05/13
+NR NR
+Summer_Grad_TARA_Fee
+
