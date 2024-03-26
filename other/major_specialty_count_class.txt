@@ -1,147 +1,134 @@
 Major                           Specialty              Department                    
-Computer Science                N/A                    Computer Science                  12832
-Mechanical Engineering          N/A                    Mechanical Engineering             7537
-Electrical Engineering          N/A                    Electrical Engineering             2453
-Computer Science                Data Science           Computer Science                   2344
-                                Computer Eng           Computer Science                   1755
-Engineering Physics             N/A                    Physics                            1712
-Computer Science                Robotics Intel Sys     Computer Science                   1683
-Civil Engineering               N/A                    Civil & Environmental Enginrng     1362
-Computer Science                N/A                    Electrical Enginrg & Comp Sci      1160
-Computational & Applied Math    N/A                    Applied Math & Statistics          1052
-Statistics                      N/A                    Applied Math & Statistics           800
-Geophysical Engineering         N/A                    Geophysics                          672
-Metallurgical & Materials Eng   N/A                    Metallurgical & Materials Eng       610
-Electrical Engineering          Intg Crcts & Elctrnc   Electrical Engineering              604
-Computer Science                Business               Computer Science                    575
-Quantitative Biosci & Eng       N/A                    Interdisciplinary Program           574
-Petroleum Engineering           N/A                    Petroleum                           566
-Chemical Engineering            N/A                    Chemical & Biological Engineer      452
-Environmental Engineering       N/A                    Civil & Environmental Enginrng      436
-Engineering & Tech Management   N/A                    Economics and Business              371
-Electrical Engineering          N/A                    Electrical Enginrg & Comp Sci       348
-                                Engy & Pwr Electrncs   Electrical Engineering              302
-Computer Science                Space                  Computer Science                    273
-Robotics                        N/A                    Mechanical Engineering              273
-Mechanical Engineering          Aerospace              Mechanical Engineering              242
-Data Science                    N/A                    Interdisciplinary Program           229
-Electrical Engineering          Info Sys & Science     Electrical Engineering              220
-Chemical Engineering            Biological Enginrng    Chemical & Biological Engineer      218
-Quantum Engineering             N/A                    Interdisciplinary Program           199
-Robotics                        N/A                    Interdisciplinary Program           186
-Geophysics                      N/A                    Geophysics                          170
-Quantum Engineering             N/A                    Physics                             125
-Chemical Engineering            Process Engineering    Chemical & Biological Engineer      121
-Mechanical Engineering          N/A                    Physics                             114
-Electrical Engineering          Antenn & Wirels Comm   Electrical Engineering              113
-Mining Engineering              N/A                    Mining                              112
-Engineering & Tech Management   N/A                    Electrical Enginrg & Comp Sci       108
-Mechanical Engineering          Automotive             Mechanical Engineering              108
-Statistics                      N/A                    Interdisciplinary Program           106
-Business Eng & Mngmt Sci        N/A                    Economics and Business              104
-Geological Engineering          GTch                   Geo & Geological Engineering         97
-Hydrology                       N/A                    Interdisciplinary Program            94
-Mechanical Engineering          Biomechanics           Mechanical Engineering               91
-Space Resources                 N/A                    Mechanical Engineering               86
-Engineering General             Individualized         Engineering Design & Society         85
-Chemistry                       N/A                    Chemistry                            81
-Statistics                      N/A                    Computer Science                     75
-Computer Science                Research Honors        Computer Science                     74
-Robotics                        N/A                    Computer Science                     68
-Economics                       Business               Economics and Business               68
-Space Resources                 N/A                    Interdisciplinary Program            66
-Data Science                    N/A                    Computer Science                     65
-Physics                         N/A                    Physics                              64
-Biochemistry                    N/A                    Chemistry                            63
-Nuclear Engineering             N/A                    Physics                              61
-Computer Science                Data Science           Electrical Enginrg & Comp Sci        58
+Computer Science                N/A                    Computer Science                  18358
+Mechanical Engineering          N/A                    Mechanical Engineering            11456
+Electrical Engineering          N/A                    Electrical Engineering             3681
+Computer Science                Data Science           Computer Science                   3591
+                                Robotics Intel Sys     Computer Science                   2599
+Computational & Applied Math    N/A                    Applied Math & Statistics          1898
+Engineering Physics             N/A                    Physics                            1842
+Civil Engineering               N/A                    Civil & Environmental Enginrng     1619
+Computer Science                Computer Eng           Computer Science                   1596
+                                Computer Enginring     Computer Science                   1234
+Mechanical Engineering          Aerospace              Mechanical Engineering             1142
+Quantitative Biosci & Eng       N/A                    Interdisciplinary Program          1134
+Electrical Engineering          Intg Crcts & Elctrnc   Electrical Engineering             1089
+Statistics                      N/A                    Applied Math & Statistics          1064
+Engineering & Tech Management   N/A                    Economics and Business              864
+Geophysical Engineering         N/A                    Geophysics                          805
+Computer Science                Business               Computer Science                    772
+Electrical Engineering          Engy & Pwr Electrncs   Electrical Engineering              702
+Metallurgical & Materials Eng   N/A                    Metallurgical & Materials Eng       701
+Chemical Engineering            N/A                    Chemical & Biological Engineer      605
+Environmental Engineering       N/A                    Civil & Environmental Enginrng      599
+Petroleum Engineering           N/A                    Petroleum                           547
+Computer Science                Space                  Computer Science                    475
+Civil & Environ Engineering     N/A                    Civil & Environmental Enginrng      462
+Electrical Engineering          Info Sys & Science     Electrical Engineering              394
+Mechanical Engineering          Automotive             Mechanical Engineering              371
+Robotics                        N/A                    Interdisciplinary Program           363
+Mechanical Engineering          Biomechanics           Mechanical Engineering              348
+Chemical Engineering            Biological Enginrng    Chemical & Biological Engineer      336
+Computer Science                N/A                    Electrical Enginrg & Comp Sci       331
+Business Eng & Mngmt Sci        N/A                    Economics and Business              283
+Data Science                    N/A                    Interdisciplinary Program           243
+Quantum Engineering             N/A                    Interdisciplinary Program           243
+Electrical Engineering          Antenn & Wirels Comm   Electrical Engineering              229
+Mining Engineering              N/A                    Mining                              197
+Geophysics                      N/A                    Geophysics                          179
+Chemical Engineering            Process Engineering    Chemical & Biological Engineer      167
+Engineering General             Individualized         Engineering Design & Society        165
+Data Science                    N/A                    Applied Math & Statistics           152
+Applied Physics                 N/A                    Physics                             151
+Economics                       Business               Economics and Business              135
+Mechanical Engineering          Energy                 Mechanical Engineering              120
+Computer Science                Research Honors        Computer Science                    114
+Geological Engineering          GTch                   Geo & Geological Engineering        114
+Mechanical Engineering          Manufacturing          Mechanical Engineering              110
+Chemistry                       N/A                    Chemistry                           110
+Engineering General             Robotics & Automatn    Engineering Design & Society        109
+Undecided                       N/A                    Undecided                           107
+Non-degree Graduate             N/A                    Non-Degree Program Grad Level       105
+Biochemistry                    N/A                    Chemistry                           104
+Space Resources                 N/A                    Interdisciplinary Program           102
+Mechanical Engineering          Nuclear Energy         Mechanical Engineering               89
+Hydrology                       N/A                    Interdisciplinary Program            88
+Electrical Engineering          N/A                    Electrical Enginrg & Comp Sci        87
+Physics                         N/A                    Physics                              86
+Data Science                    N/A                    Computer Science                     80
+Mechanical Engineering          Automation & Controls  Mechanical Engineering               75
+Advanced Manufacturing          N/A                    Mechanical Engineering               74
+Quantitative Biosci & Engnrng   N/A                    Interdisciplinary Program            72
+Additive Manufacturing          N/A                    Interdisciplinary Program            68
+Materials Science               N/A                    Interdisciplinary Program            64
+Engineering General             Mus Aud Eng Rec Arts   Engineering Design & Society         60
+Operations Research w Eng       N/A                    Interdisciplinary Program            57
 Hydrology                       N/A                    Civil & Environmental Enginrng       56
-Engineering General             Robotics & Automatn    Engineering Design & Society         52
-Product Management              N/A                    Mechanical Engineering               47
-Cybersecurity Cyber Phys Sys    N/A                    Computer Science                     42
-Computational & Applied Math    N/A                    Computer Science                     42
-Operations Research w Eng       N/A                    Interdisciplinary Program            41
-Mechanical Engineering          Nuclear Energy         Mechanical Engineering               39
-Computer Science                Computer Eng           Electrical Enginrg & Comp Sci        37
-Geological Engineering          M/FEx                  Geo & Geological Engineering         36
-Statistics                      N/A                    Electrical Enginrg & Comp Sci        33
-Product Management              N/A                    Economics and Business               31
-Ceramic Engineering             N/A                    Metallurgical & Materials Eng        30
-Environmental Engnring Science  N/A                    Civil & Environmental Enginrng       28
+Robotics                        N/A                    Computer Science                     55
+Advanced Energy Systems         N/A                    Interdisciplinary Program            55
+Geological Engineering          M/FEx                  Geo & Geological Engineering         54
+Quantum Engineering             N/A                    Physics                              53
+Robotics                        N/A                    Mechanical Engineering               53
+Mechanical Engineering          Materials              Mechanical Engineering               53
+STEM Education                  N/A                    Honors                               43
+Materials Science               N/A                    Metallurgical & Materials Eng        42
+Ceramic Engineering             N/A                    Metallurgical & Materials Eng        41
+Engineering General             Community Devlpmnt     Engineering Design & Society         40
+Geological Engineering          N/A                    Geo & Geological Engineering         39
+Nuclear Engineering             N/A                    Interdisciplinary Program            37
+Mineral & Energy Economics      N/A                    Economics and Business               32
+Engineering General             Energy Studies         Engineering Design & Society         32
+Computer Science                Data Science           Electrical Enginrg & Comp Sci        32
+Robotics                        N/A                    nan                                  31
 Hydrology                       N/A                    Geophysics                           28
-Materials Science               N/A                    Interdisciplinary Program            26
-Engineering - Electrical        N/A                    Electrical Enginrg & Comp Sci        25
-Engineering General             Energy Studies         Engineering Design & Society         25
-Mechanical Engineering          Manufacturing          Mechanical Engineering               24
-Materials Science               N/A                    Physics                              24
-Data Science                    N/A                    Electrical Enginrg & Comp Sci        23
-Environmental Engineering       N/A                    Economics and Business               22
-Engineering General             Community Devlpmnt     Engineering Design & Society         22
+Humanitarian Eng & Sci          N/A                    Interdisciplinary Program            28
+Nuclear Engineering             N/A                    Metallurgical & Materials Eng        27
+Applied Chemistry               N/A                    Chemistry                            24
+Business Analytics              N/A                    Economics and Business               22
 Data Science - Comp Sci         N/A                    Interdisciplinary Program            22
-Humanitarian Eng & Sci          N/A                    Interdisciplinary Program            22
-Data Science                    N/A                    Applied Math & Statistics            22
-                                                       Economics and Business               21
-Geophysical Engineering         N/A                    Interdisciplinary Program            20
-STEM Education                  N/A                    Physics                              20
-                                                       Honors                               19
-Statistics                      N/A                    Physics                              19
-Nuclear Engineering             N/A                    Mechanical Engineering               19
-Statistics                      N/A                    Economics and Business               17
-Mineral & Energy Economics      N/A                    Economics and Business               17
+Environmental Engnring Science  N/A                    Civil & Environmental Enginrng       21
+Non-degree Undergraduate        N/A                    Non-Degree Program Undergrad         20
+Earth Resources Dev Eng         N/A                    Mining                               20
+Construction Engineering        N/A                    Civil & Environmental Enginrng       20
+Computer Science                Computer Enginring     Electrical Enginrg & Comp Sci        19
+Space Resources                 N/A                    Mechanical Engineering               19
+Finite Element Analysis         N/A                    Interdisciplinary Program            19
+Business Engin & Mangement Sci  N/A                    Economics and Business               16
 Mineral Exploration             N/A                    Geo & Geological Engineering         16
-Engineering & Tech Management   N/A                    Electrical Engineering               16
-Humanitarian Eng & Sci          N/A                    Engineering Design & Society         15
-Operations Research w Eng       N/A                    Mechanical Engineering               15
-Geological Engineering          M/FEx                  Interdisciplinary Program            14
-Environmental Engineering       N/A                    Interdisciplinary Program            14
-Undrgrnd Const & Tunnel Eng     N/A                    Interdisciplinary Program            14
-Engineering - Civil             N/A                    Civil & Environmental Enginrng       14
-Hydrology                       N/A                    Geo & Geological Engineering         14
-Ntrl Resc & Nrg Plcy            N/A                    Humanities Arts Social Science       14
-Mechanical Engineering          Energy                 Mechanical Engineering               14
-Robotics                        N/A                    Physics                              14
-Electrical Engineering          N/A                    Computer Science                     13
-Metallurgical & Materials Eng   N/A                    Mining                               13
-Engineering General             Mus Aud Eng Rec Arts   Engineering Design & Society         12
-Nuclear Engineering             N/A                    Metallurgical & Materials Eng        10
-Engineering - Electrical        N/A                    Engineering                          10
-Engineering General             Corporate Sustnblty    Interdisciplinary Program            10
-Geological Engineering          GTch                   Interdisciplinary Program            10
-Quantitative Biosci & Eng       N/A                    Chemistry                            10
-Mechanical Engineering          Automation & Controls  Mechanical Engineering                9
-Space Resources                 N/A                    Metallurgical & Materials Eng         9
-Data Science                    N/A                    Chemical & Biological Engineer        9
-Geophysics                      N/A                    Interdisciplinary Program             9
+Advanced Energy Systems         N/A                    Metallurgical & Materials Eng        16
+Materials Science               N/A                    Physics                              15
+Chemistry                       Biochemistry           Chemistry                            15
+Computational and Applied Math  N/A                    Applied Math & Statistics            12
+Data Science - Statistical Lea  N/A                    Interdisciplinary Program            12
+Economics                       N/A                    Economics and Business               10
+Natrl Resrces & Energy Policy   N/A                    Humanities Arts Social Science       10
 Engineering General             Corporate Sustnblty    Engineering Design & Society          9
-Mineral & Energy Economics      N/A                    Mechanical Engineering                8
-Petroleum Reservoir Systems     N/A                    Geophysics                            8
+Geology                         N/A                    Geology                               8
 Chemistry                       Environmental Chem     Chemistry                             8
-Professional Comp Sci           N/A                    Computer Science                      8
-Undrgrnd Const & Tunnel Eng     N/A                    Mining                                7
-Space Resources                 N/A                    Mining                                7
-Computational & Applied Math    N/A                    Chemistry                             7
-Undrgrnd Const & Tunnel Eng     N/A                    Geo & Geological Engineering          7
+Engineering - Environmental     N/A                    Civil & Environmental Enginrng        8
+Undrgrnd Const & Tunnel Engin   N/A                    Civil & Environmental Enginrng        7
+                                                       Interdisciplinary Program             7
 Chemical & Biochem Engineering  N/A                    Chemical & Biological Engineer        7
-Chemistry                       Biochemistry           Chemistry                             7
-Finite Element Analysis         N/A                    Interdisciplinary Program             7
+Undrgrnd Const & Tunnel Eng     N/A                    Interdisciplinary Program             7
 Geology                         N/A                    Geo & Geological Engineering          7
-Mining & Earth Sys Engineering  N/A                    Mining                                7
-Engineering - Environmental     N/A                    Civil & Environmental Enginrng        7
+Hydrology                       N/A                    Geology                               7
+Geological Engineer             N/A                    Geology                               7
+Operations Research w/Enginrng  N/A                    Economics and Business                7
+GIS & Geoinformatics            N/A                    Interdisciplinary Program             7
+Hydrology                       N/A                    Geo & Geological Engineering          7
 Materials Science               N/A                    Chemical & Biological Engineer        7
-Mineral & Energy Economics      N/A                    Metallurgical & Materials Eng         7
-Nuclear Engineering             N/A                    Interdisciplinary Program             6
-Electrical Engineering          N/A                    Interdisciplinary Program             5
-Space Resources                 N/A                    Physics                               4
-Math & CS - Comput & Appl Math  N/A                    Mathematics                           4
-Mechanical Engineering          N/A                    Metallurgical & Materials Eng         4
-Engineering - Mechanical        N/A                    Engineering                           3
-Chemical & Biochem Engineering  N/A                    Interdisciplinary Program             3
-Civil & Environ Engineering     N/A                    Civil & Environmental Enginrng        3
+Operations Research w/Enginrng  N/A                    Interdisciplinary Program             7
+Professional Comp Sci           N/A                    Computer Science                      7
+ChemEng - Biological Specialty  N/A                    Chemical & Biological Engineer        6
+Quantitative Biosci & Eng       N/A                    nan                                   6
+CO2 Capture, Util. & Storage    N/A                    Interdisciplinary Program             6
+Undrgrnd Const & Tunnel Engin   N/A                    Geology                               5
+Petroleum Data Analytics        N/A                    Computer Science                      5
+Ntrl Resc & Nrg Plcy            N/A                    Humanities Arts Social Science        4
+Geological Engineering          M/FEx                  Geology                               4
 Robotics                        N/A                    Electrical Engineering                3
-Engineering - Mechanical        N/A                    Mechanical Engineering                3
-Engineer of Mines               N/A                    Mining                                2
-Operations Research w Eng       N/A                    Economics and Business                2
-Environmental Sci & Enginrng    N/A                    Environ Science & Engineering         2
-Advanced Energy Systems         N/A                    Interdisciplinary Program             2
-Geological Engineering          N/A                    Geo & Geological Engineering          1
+Humanitarian Engineer & Sci     N/A                    Engineering Design & Society          3
+Engineering General             STEM Teaching          Engineering Design & Society          3
+Operations Research w/Enginrng  N/A                    Mechanical Engineering                3
+Mining & Earth Sys Engineering  N/A                    Mining                                2
 GIS & Geoinformatics            N/A                    Geo & Geological Engineering          1
+Space Resources                 N/A                    nan                                   1
