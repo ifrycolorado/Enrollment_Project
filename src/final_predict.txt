@@ -1,0 +1,33 @@
+CSCI128: 198
+	Upper: 250
+	Lower: 146
+CSCI200: 322
+	Upper: 339
+	Lower: 305
+CSCI220: 403
+	Upper: 469
+	Lower: 336
+CSCI274: 272
+	Upper: 335
+	Lower: 208
+CSCI306: 170
+	Upper: 177
+	Lower: 163
+CSCI341: 157
+	Upper: 173
+	Lower: 140
+CSCI358: 243
+	Upper: 300
+	Lower: 186
+CSCI370: 0
+	Upper: 0
+	Lower: 0
+CSCI400: 157
+	Upper: 212
+	Lower: 101
+CSCI406: 189
+	Upper: 257
+	Lower: 121
+CSCI442: 151
+	Upper: 171
+	Lower: 132
